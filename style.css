@@ -1,0 +1,7 @@
+div>strong{
+    color: blue;
+}
+
+a:hover, a:focus{
+    color: red;
+}
